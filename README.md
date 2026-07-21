@@ -207,9 +207,6 @@ experience without an external embeddings API.
 - [x] Force-directed graph visualization of note relationships (D3.js)
 - [x] Real transactional email for password resets (PHPMailer + SMTP)
 - [x] REST API layer with token-based auth, for third-party integrations
-- [ ] Drag-and-drop uploads with progress bars
-- [ ] Admin audit log (create/edit/delete history)
-- [ ] Public share links for individual notes
 
 Contributions and forks are welcome — open an issue if you'd like to pick
 one of these up.
