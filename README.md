@@ -54,7 +54,7 @@ to finish in one file.
 
 | Graph View | API Access |
 |:---:|:---:|
-| ![Graph View](graphview.JPG) | ![API Access](apiaccess.JPG) |
+| ![Graph View](Graph.JPG) | ![API Access](API.JPG) |
 
 </div>
 
